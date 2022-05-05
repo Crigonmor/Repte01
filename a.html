@@ -3,7 +3,76 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+    <style>
+    *{
+      margin:0;
+      padding:0;
+    }
+    nav{
+      display:block;
+      position:relative;
+      width:100vw;
+      height:60px;
+      background-color: #000;
+
+    }
+
+    nav div{
+      display:flex;
+      position:relative;
+      width:66vw;
+      height:45px;
+      justify-content: space-between;
+      margin:0 auto;
+      text-align: center;
+    }
+
+    nav div button{
+      display:inline-flex;
+      position:relative;
+      background-color: transparent;
+      border:none;
+      color:#CCC;
+      font-size:0.875rem;
+      letter-spacing: 0.031rem;
+      font-family: sans-serif;
+      padding-top:15.5px;
+      cursor:pointer;
+      transition:color 300ms ease;
+      outline: none;
+    }
+
+    nav div button:hover{
+      color:#FDFCFB;
+    }
+
+    nav div button i{
+      display:block;
+      position:absolute;
+      font-size:1.375rem;
+      line-height:1.375rem;
+      top:11.5px;
+    }
+    nav div button#Anunci{
+      background-color: darkgreen;
+      color:white;
+
+    }
+    nav div button#Anunci:hover{
+      color:black;
+
+    }
+    </style>
   </head>
+  <header>
+    <nav>
+      <div>
+      <button>Inicio</button>
+      <button><i class="fas fa-shopping-bag"></i></button>
+      <button id="Anunci">Crear Anunci</button>
+      </div>
+    </nav>
+  </header>
   <body>
 
   </body>
