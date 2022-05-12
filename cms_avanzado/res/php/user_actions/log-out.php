@@ -4,5 +4,5 @@
 
   session_destroy();
   //tanca la sesio
-  header("Location: http://localhost/Projects/00 PHP/cms_avanzado/");
+  header("Location: http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/");
  ?>
