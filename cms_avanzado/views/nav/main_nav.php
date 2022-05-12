@@ -9,8 +9,5 @@
     <a class="item" href="admin">
       Iniciar Session
     </a>
-    <a class="item">
-      Registrarme
-    </a>
   </div>
 </div>
