@@ -6,7 +6,7 @@
     Categorias
   </a>
   <div class="right menu">
-    <a href="http://localhost/Projects/00 PHP/cms_avanzado/log-out" class="item">
+    <a href="http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/log-out" class="item">
       Log Out
     </a>
   </div>
