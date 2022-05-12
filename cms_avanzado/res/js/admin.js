@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var root = "http://localhost/Projects/00 PHP/cms_avanzado/";
+  var root = "http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/";
 
 try{
   CKEDITOR.replace('txtDescription');
@@ -21,7 +21,7 @@ try{
         success: function(data){
         if(data != "false"){
 
-          window.location.href = "http://localhost/Projects/00 PHP/cms_avanzado/admin/";
+          window.location.href = "http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/admin/";
           //rederigeix a
         }else if(data == "false") {
             alert("Sus credenciales no son correctas");
