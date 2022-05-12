@@ -4,8 +4,8 @@
   <head>
     <meta charset="utf-8">
     <title>CMS Avanzado</title>
-    <link rel="stylesheet" href="http://localhost/Projects/00 PHP/cms_avanzado/res/css/framework/semantic/semantic.min.css">
-    <link rel="stylesheet" href="http://localhost/Projects/00 PHP/cms_avanzado/res/css/main.css">
+    <link rel="stylesheet" href="http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/res/css/framework/semantic/semantic.min.css">
+    <link rel="stylesheet" href="http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/res/css/main.css">
   </head>
   <body>
     <?php require "views/nav/main_nav.php"; ?>
