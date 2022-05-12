@@ -1,5 +1,7 @@
 <div class="post_main_img">
-  <img src="../res/img/img_posts/<?php echo $post[0]["img_post"]; ?>.png" alt="<?php echo $post[0]["name"]; ?>">
+  <div class="post_main_image_image">
+    <img id="imatge"src="../res/img/img_posts/<?php echo $post[0]["img_post"]; ?>.png" alt="<?php echo $post[0]["name"]; ?>">
+  </div>
 </div>
 <div class="post_main_body">
   <h1><?php echo $post[0]["name"]; ?></h1>

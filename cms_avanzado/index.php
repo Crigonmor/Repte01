@@ -25,4 +25,6 @@ $_GET['section'] == "post"
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script  src="res/css/framework/semantic/semantic.min.js"></script>
   </body>
+  <?php require 'views/footer.php'; ?>
+  <footer></footer>
 </html>
