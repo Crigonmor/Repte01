@@ -1,9 +1,9 @@
 <div class="ui pointing menu" style="margin-bottom: 0px;">
-  <a class="item">
+  <a class="item" href="../">
     Inicio
   </a>
-  <a class="item">
-    Publcicaciones
+  <a class="item" href="../">
+    Publicaciones
   </a>
   <div class="right menu">
     <a class="item">
