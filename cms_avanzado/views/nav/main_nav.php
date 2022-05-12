@@ -5,8 +5,8 @@
   <a class="item" href="../">
     Publicaciones
   </a>
-  <div class="right menu">
-    <a class="item">
+  <div class="right menu" >
+    <a class="item" href="admin">
       Iniciar Session
     </a>
     <a class="item">
