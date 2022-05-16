@@ -1,7 +1,7 @@
 <div class="login_container">
   <h2>Wallapop</h2>
 
-<p><b>Correo Electronico/Usuario</b></p>
+<p><b>Correo Electronic/Usuari</b></p>
 <div class="ui input">
   <input type="text" class="txtEmailLogin" placeholder="Correo Electronico/Usuario">
 </div>
