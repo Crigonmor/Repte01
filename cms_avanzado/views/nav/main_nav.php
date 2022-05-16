@@ -1,13 +1,13 @@
 <div class="ui pointing menu" style="margin-bottom: 0px;">
   <a class="item" href="http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/">
-    Inicio
+    Inici
   </a>
   <a class="item" href="http://localhost/Projectes/GS/repte GuillemRigol/cms_avanzado/">
-    Publicaciones
+    Publicacions
   </a>
   <div class="right menu" >
     <a class="item" href="admin">
-      Iniciar Session
+      Iniciar Sessio
     </a>
   </div>
 </div>
