@@ -1,6 +1,6 @@
 <div class="background_main">
   <div class="overlay"> </div>
-<h1 class="main_title">Wallapop</h1>
+<h1 class="main_title">Què estàs buscant avui?</h1>
 </div>
 <div class="ui grid stackable container" style="margin-top: 25px;">
   <div class="sixteen wide column">
